@@ -1,0 +1,2 @@
+export const GET_MESSAGES = "GET_MESSAGES";
+export const LOADING_MESSAGES = "LOADING_MESSAGES";

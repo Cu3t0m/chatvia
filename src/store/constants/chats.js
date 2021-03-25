@@ -1,0 +1,4 @@
+export const GET_CHAT_ITEMS = "GET_CHAT_ITEMS";
+export const CREATE_NEW_CHAT = "CREATE_NEW_CHAT";
+export const SET_CURRENT_CHAT_ID = "SET_CURRENT_CHAT_ID";
+export const LOADING_CHATS = "LOADING_CHATS";
